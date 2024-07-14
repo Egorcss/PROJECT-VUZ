@@ -1,1 +1,1 @@
-https://github.com/Egorcss/zakrivayuschiy-teg-f.git
+https://github.com/Egorcss/PROJECT-VUZ.git
